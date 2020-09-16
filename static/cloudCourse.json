@@ -1,0 +1,1416 @@
+{
+  "hotCourse": [
+    {
+      "image": 11,
+      "name": "三天玩转最优路径算法",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "24小时",
+      "tags": [
+        "算法与数据结构"
+      ],
+      "description": "你是否曾被各个大厂的算法面试题虐的焦头烂额？ 你是否曾膜拜那些算法大神的思维逻辑？ 你是否想写出优秀简洁的算法代码？ 你是否... 来吧，加入我们！带你三天玩转最优路径算法！ 本课程讲述的是有关最优路径的算法内容，并介绍相关的数学基础、相关应用及工具，以及如何在实际环境中使用它们。课程不仅仅介绍了各种算法的理论知识，更是通过建立多个实际案例、习题测评，引导学生在实际项目中学到相关知识经验，同时老师可以灵活安排学生的学习任务，有效地对学生的知识吸收情况做针对性的解决。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/60dc8bb733e24d548fe84bf398ebf630/1",
+      "hot": 8
+    },
+    {
+      "image": 12,
+      "name": "基于ROMA及AppEngine告警消息分离应用",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "4小时",
+      "tags": [
+        "应用开发"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/2df188c031f24caa8b44e5566cf98e44/4",
+      "hot": 12
+    },
+    {
+      "image": 13,
+      "name": "基于AppEngine出差电子流应用开发",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "2小时",
+      "tags": [
+        "应用开发"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/d76f55db9c624a9aaf8cefea0cf85043/4",
+      "hot": 13
+    },
+    {
+      "image": 14,
+      "name": "基于ROMA及AppEngine智慧气象局应用开发",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "4小时",
+      "tags": [
+        "应用开发"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/d98a394eafc14905af8c4f9027b72a55/4",
+      "hot": 14
+    },
+    {
+      "image": 15,
+      "name": "Nodejs基础",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "7小时",
+      "tags": [
+        "Nodejs"
+      ],
+      "description": "Nodejs基础",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/8dce3d88caa54c3792b3531ebd38fd8f/1",
+      "hot": -1
+    },
+    {
+      "image": 16,
+      "name": "Android核心技术系列之二-Android基础入门",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "14小时",
+      "tags": [
+        "Android"
+      ],
+      "description": "Android核心技术系列之二-Android基础入门",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/293c04ae16574874955f96ac8c8dbe26/1",
+      "hot": 16
+    },
+    {
+      "image": 17,
+      "name": "Android核心技术系列之三-初级Android开发",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "10小时",
+      "tags": [
+        "Android"
+      ],
+      "description": "Android核心技术系列之三-初级Android开发",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/e52842381d94405caa6301dc8db70259/1",
+      "hot": 17
+    },
+    {
+      "image": 18,
+      "name": "Android核心技术系列之四-Android进阶",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "17小时",
+      "tags": [
+        "Android"
+      ],
+      "description": "Android核心技术系列之四-Android进阶",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/2e966e3cf9ac423c86ae2b8563f627cd/1",
+      "hot": 18
+    },
+    {
+      "image": 19,
+      "name": "Android核心技术系列之五-Android精通",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "15小时",
+      "tags": [
+        "Android"
+      ],
+      "description": "安卓核心技术系列之五-Android精通",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/8fb1cee9243c4acf836aeecd8943b410/1",
+      "hot": 19
+    },
+    {
+      "image": 20,
+      "name": "Android核心技术系列之一-初识Android",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "6小时",
+      "tags": [
+        "Android"
+      ],
+      "description": "Android核心技术系列之一-初识Android",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/9475e3f73380450ca5fe4866c0ff0976/1",
+      "hot": 15
+    },
+    {
+      "image": 21,
+      "name": "剪辑大神50招",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "1小时",
+      "tags": [
+        "影视制作"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/6f5800c66c4742cca7e122a1df566971/1",
+      "hot": 36
+    },
+    {
+      "image": 22,
+      "name": "软件测试入门-黑马头条项目实战",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "2小时",
+      "tags": [
+        "软件测试"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/6d76ed3e79514316b2fddec905864b97/1",
+      "hot": 25
+    },
+    {
+      "image": 23,
+      "name": "UI入门-商业广告设计实战视频",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "11小时",
+      "tags": [
+        "UI"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/d6f68af283f14393a4b04234bc674aac/1",
+      "hot": 37
+    },
+    {
+      "image": 24,
+      "name": "区块链入门",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "4小时",
+      "tags": [
+        "区块链"
+      ],
+      "description": "本课程由浅入深的介绍区块链技术缘起、原理机制、演进和发展现状，分享区块链典型应用场景及特点。了解华为云区块链的方案及特点，参与动手实验。从入门到实践，循序渐进一站式学习。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/53ec51302dea452eb2f2c34e45470dc4/5",
+      "hot": 20
+    },
+    {
+      "image": 25,
+      "name": "前端基础技能HTML入门到进阶",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "5.6小时",
+      "tags": [
+        "前端"
+      ],
+      "description": "本课程旨在带你学透HTML。从基础知识入手，涵盖浏览器内核、HTML基本结构标签、HTML语法规范、VSCode编辑器、HTML常用标签、相对路径、锚点定位、表格、列表、表单等内容，辅以大量的实践案例，助你全面掌握HTML的知识体系，认识到HTML作为前端开发关键性基础技能之一的重要性及意义，为后续的学习奠定扎实的基础。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/bf5cd9db69ca4cd195ecfde07dc51954/1",
+      "hot": 38
+    },
+    {
+      "image": 26,
+      "name": "Spring定时任务2步轻松搞定",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "1小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "在工作中我们经常遇到需要定时执行的任务，比如每月自动形成报表、每日自动对账、每半小时取消一次未付款订单等等，这些都可以称为定时任务。那这些定时任务我们如何通过代码实现呢？ Quartz相对比较笨重、繁杂，有没有更简洁、高效的定时任务实现方式呢？ 答案就是Spring中自带的定时任务！本课程将带你通过简单的2步实现一个定时任务，通过简洁的步骤、优雅的代码就让你拥有更强大的功能。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/94e90dac22984b388c500d4409fbad22/1",
+      "hot": 21
+    },
+    {
+      "image": 27,
+      "name": "千万级流量架构优化策略",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "2小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/30ade322372b4a78b3793870209b61c8/1",
+      "hot": 22
+    },
+    {
+      "image": 28,
+      "name": "Lombok安装及使用教程",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "1.5小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "课程站在初学者的角度，重点帮助学员全面认识掌握Lombok，结合Lombok提供的强大功能让学员“码”出高效。课程除了Lombok的用法讲解之外，还对Lombok的原理进行讲解，让学员知其然也知其所以然。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/fa3a7915dcba45bbb3d935d451cbe5ad/1",
+      "hot": 23
+    },
+    {
+      "image": 29,
+      "name": "Zookeeper入门与实践",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "2.2小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "ZooKeeper是一种分布式协调服务，它用简单的架构和API，解决了在分布式环境中协调和管理服务的难题。本课程2小时精华讲解ZooKeeper，包括集群结构、集群配置、常用命令、部署模式、Zab协议、Dubbo架构等重要核心知识，并结合经典售票案例与实际应用，从入门到实践带你扎实、系统学习ZooKeeper，跳过编程前方的弯、坎、坑~",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/91cb539c75a5453194c6d034ef4932f9/1",
+      "hot": 24
+    },
+    {
+      "image": 30,
+      "name": "Axure基础课",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "5.5小时",
+      "tags": [
+        "产品经理"
+      ],
+      "description": "本系列课程为Axure精讲，由黑马高级讲师亲授，课程内容涵盖了软件操作、知识点精讲，课程设计采用项目案例驱动式教学、从基础到进阶的系统化讲解，帮助学员快速掌握Axure的使用。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/2df42ab1303b46b48431225f4e5844ba/1",
+      "hot": 39
+    },
+    {
+      "image": 31,
+      "name": "从0开始学Python",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "14小时",
+      "tags": [
+        "Python"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/229b93b64a4e4df0a9511ac7f4c45831/1",
+      "hot": 26
+    },
+    {
+      "image": 32,
+      "name": "Vue.js基础入门开发",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "4小时",
+      "tags": [
+        "前端"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/9a23cc47a63e4c16880c340cbf7850a3/1",
+      "hot": 41
+    },
+    {
+      "image": 33,
+      "name": "自媒体运营套路大揭底，带你轻松做爆文上线",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "11.2小时",
+      "tags": [
+        "运营"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/454697e279fc4f5ab060fe2564823923/1",
+      "hot": 40
+    },
+    {
+      "image": 34,
+      "name": "掌握Java常用API提高编程效率",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "3小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/2cc39b7084f64887926bf674a176355c/1",
+      "hot": 27
+    },
+    {
+      "image": 35,
+      "name": "使用Java+POI读写Excel文档",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "1小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/4452dc438dda40b89fe4034a88b29534/1",
+      "hot": 28
+    },
+    {
+      "image": 36,
+      "name": "jQuery瀑布流插件封装",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "1.5小时",
+      "tags": [
+        "前端"
+      ],
+      "description": "会用jQuery，用过jQuery插件，但是不知道如何封装？如果遇到这个问题，那你就来对了！本课程手把手带你从零开始实现jQuery瀑布流插件的封装，同时还会讲解jQuery瀑布的原理，让你知其然也知其所以然。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/a3440710361c4f11a719b109ebe85868/1",
+      "hot": 29
+    },
+    {
+      "image": 37,
+      "name": "轻松学好多线程，JAVA并发不头疼",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "2小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/e8138bcb39d0464b895db5a79326a89d/1",
+      "hot": 30
+    },
+    {
+      "image": 38,
+      "name": "Java“方法”学的好，程序代码复用高",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "2小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "Java方法是语句的集合，能使程序代码变得更简短而清晰，提高开发效率，便于程序维护,可谓方法学的好，代码复用高!本课程2小时高浓缩、趣味化讲解方法的定义、调用、形参和实参、方法重载、参数传递等核心知识点，初学Java的你值得拥有~~",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/ed0174074d874eacba19c7c8a2e6d523/1",
+      "hot": 31
+    },
+    {
+      "image": 39,
+      "name": "2小时搞懂区块链",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "2小时",
+      "tags": [
+        "区块链"
+      ],
+      "description": "《2小时搞懂区块链》主要讲解了区块链的基本概念和实现原理，区块链技术的发展历程，涵盖区块链1.0技术的应用场景——比特币，以及区块链2.0技术的应用场景——以太坊，详细讲解了比特币和以太坊的设计思路。本课程能够满足学员的区块链原理学习，比特币学习和以太坊学习，课程资料包含区块链入门培训视频和相关测试。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/25bb32901063496383385ef384ff0abf/1",
+      "hot": 32
+    },
+    {
+      "image": 40,
+      "name": "1小时精通Redis哨兵模式",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "1小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "主服务器宕机后，只能手动把一台从服务器切换为主服务器?这样不仅费事费力，还会造成一段时间内服务不可用!更多时候我们需要优先考虑哨兵模式。本课程1小时高浓缩、趣味化讲解Redis哨兵模式、结构搭建、哨兵工作原理等必学知识，是你学好Redis的必备课程。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/204a6c3958894c0cbdbcce8094c40fe7/1",
+      "hot": 33
+    },
+    {
+      "image": 41,
+      "name": "区块链精品实践课",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "4小时",
+      "tags": [
+        "区块链"
+      ],
+      "description": "本课程由浅入深的介绍区块链技术缘起、原理机制、演进和发展现状，分享区块链典型应用场景及特点。了解华为云区块链的方案及特点，参与动手实验。从入门到实践，循序渐进一站式学习。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/6bc98f2050e14b539dd46ea64b14b92f/4",
+      "hot": 34
+    },
+    {
+      "image": 42,
+      "name": "快乐的Java网络编程",
+      "teacher_name": "博学谷",
+      "school": "华为云",
+      "time": "1.5小时",
+      "tags": [
+        "Java"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/c8fa8506f99e4515ab911fedc548fe05/1",
+      "hot": 35
+    },
+    {
+      "image": 43,
+      "name": "揭秘Ajax",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "4h",
+      "tags": [
+        "前端"
+      ],
+      "description": "ajax技术全面掌握",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/8800abed3cd14a928b18db33374b97d7/1",
+      "hot": 43
+    },
+    {
+      "image": 44,
+      "name": "Python核心系列之前置知识",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "3.2h",
+      "tags": [
+        "Python"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/c492e951c4994cfe87b49f08d9345fdf/1",
+      "hot": 44
+    },
+    {
+      "image": 45,
+      "name": "Python核心系列之入门",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "3.9h",
+      "tags": [
+        "Python"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/d8eafd91dbd247fa9a1f2b9fcb0b4d1a/1",
+      "hot": 45
+    },
+    {
+      "image": 46,
+      "name": "Python核心系列之运算",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "3h",
+      "tags": [
+        "Python"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/7efd3e16b3d3487080c7f377c025a411/1",
+      "hot": 46
+    },
+    {
+      "image": 47,
+      "name": "Python核心系列之控制语句",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "6h",
+      "tags": [
+        "Python"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/9dcadd8d21ba4032944d793fd6dce2f4/1",
+      "hot": 47
+    },
+    {
+      "image": 48,
+      "name": "Python核心系列之模板介绍",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "7h",
+      "tags": [
+        "Python"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/05a8d0bbf52a49aa9cdbf6505dcc5f09/1",
+      "hot": 48
+    },
+    {
+      "image": 49,
+      "name": "Python核心系列之函数和装饰器",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "6h",
+      "tags": [
+        "Python"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/812eb25cf4c14fac80cb9f7ad308884d/1",
+      "hot": 49
+    },
+    {
+      "image": 50,
+      "name": "Python核心系列之面向对象",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "6h",
+      "tags": [
+        "Python"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/3a3ff5cd6de942f189bc806c0f2a564d/1",
+      "hot": 50
+    },
+    {
+      "image": 51,
+      "name": "Python核心系列之模块化与异常",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "3h",
+      "tags": [
+        "Python"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/1f5ee0ac2f184b21833983ff1b221c19/1",
+      "hot": 51
+    },
+    {
+      "image": 52,
+      "name": "Python核心系列之文件操作",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "3h",
+      "tags": [
+        "Python"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/b3e9f1510bf64177bb2a92adf32724bb/1",
+      "hot": 52
+    },
+    {
+      "image": 53,
+      "name": "Vue.js全接触系列之Vue基础",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "5h",
+      "tags": [
+        "前端"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/2ee75c1ed3464df4aaf5d61251d5253c/1",
+      "hot": 53
+    },
+    {
+      "image": 54,
+      "name": "Vue.js全接触系列之Vue项目与案例",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "5h",
+      "tags": [
+        "前端"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/f24d21d4096d4b5f9bce8d114a516dd5/1",
+      "hot": 54
+    },
+    {
+      "image": 55,
+      "name": "Vue.js全接触系列之Vue路由及源码分析",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "6h",
+      "tags": [
+        "前端"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/18eb1ad55cf646ecadde3889766f1a01/1",
+      "hot": 55
+    },
+    {
+      "image": 56,
+      "name": "Vue.js全接触系列之Vue_vuex详解",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "4h",
+      "tags": [
+        "前端"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/cc453ff943ef4b90aca35c709595ea20/1",
+      "hot": 56
+    },
+    {
+      "image": 57,
+      "name": "Node.js指南系列之Node简介",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "4h",
+      "tags": [
+        "前端"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/124240b5b2d0494ca4ab8657ade88bae/1",
+      "hot": 57
+    },
+    {
+      "image": 58,
+      "name": "Node.js指南系列之Node NPM",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "3h",
+      "tags": [
+        "前端"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/bddb29a7e8e24138bb0acac9d2262d37/1",
+      "hot": 58
+    },
+    {
+      "image": 59,
+      "name": "Node.js指南系列之Node文件操作",
+      "teacher_name": "尚硅谷",
+      "school": "华为云",
+      "time": "4h",
+      "tags": [
+        "前端"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/e1065b38b0f545e1b4015721a672b40b/1",
+      "hot": 59
+    }
+  ],
+  "baseCourse": [
+    {
+      "name": "7天玩转容器之基础入门课",
+      "description": "本期课程由华为云容器团队精心打造，课程内容涵盖热门的Docker+Kubernetes精编前沿技术，覆盖CKA考纲80%以上",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "1",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXP015+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "OpenStack原理及在华为云中的应用",
+      "description": "OpenStack是一个云操作系统，通过数据中心可控制大型的计算、存储、网络等资源池。所有的管理通过前端界面管理员就可以完成，同样也可以通过web接口让最终用户部署资源。通过本课程，学习OpenStack架构原理及其在华为云中的应用。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "2",
+      "image": "2",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX024+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "人人学IoT",
+      "description": "本课程从物联网的背景知识引入，通过物联网概述到“云-管-端“的课程体系，涵盖华为物联网认证60%的知识点，带大家从华为物联网入门到精通。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "6",
+      "image": "3",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXT004+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": " 7天玩转数据仓库（DWS）",
+      "description": "华为企业级数据仓库连续两年入选Forrester，并在国产品牌中排名第一。获得业界权威机构对华为云数据仓库（Data Warehouse Service，简称DWS）的一致肯定和高度评价。 本次活动采用视频教学+技术干货+专家答疑扫除数据仓库实际应用的问题，实现人人快速上手操作。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "5",
+      "image": "4",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE035+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "大数据入门与应用",
+      "description": "大数据（big data）是什么？本课程无特殊预备知识要求，从大数据的产生到大数据的应用，为您揭开大数据神秘的面纱。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "5",
+      "image": "5",
+      "time": "8小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE007+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "数据中心：全面云化的新一代互联网基础",
+      "description": "我们将会从“什么是数据”开始，为大家介绍数据和数据中心的概念，发展历程，以及云数据中心的发展趋势。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "5",
+      "image": "6",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX005+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "Python语言基础",
+      "description": "Python是一种计算机程序设计语言，是一种面向对象的动态类型语言，功能强大。易学易用的Python，现在就可以零基础快速入门！",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "7",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX032+self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "架构设计基础",
+      "description": "在做业务云迁移之前，从架构设计的角度考虑高可用、高扩展等问题是必不可少的环节，也是影响业务迁移进度和效果的重要因素，学习本课程，将学会如何在云端设计合适的架构来承载业务，应对后继业务架构的演进。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "7",
+      "image": "9",
+      "time": "1小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX002+2018.5/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "数据库入门与应用",
+      "description": "随着科技的进步，人们为了更高效更安全更低成本的发布应用产品，对数据库提出了更高的要求，学习该课程能迅速了解华为云数据库产品的功能特性和应用；帮您掌握华为云数据库的基本操作和管理。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "10",
+      "time": "3小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXD001+2018.5/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "弹性云服务器ECS：轻松上云第一步",
+      "description": "云时代已经到来，了解并学会使用弹性云服务器，有助于您在网站、企业电商、图形渲染、数据分析和高性能计算等场景打造可靠、安全、灵活、高效的应用环境。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "2",
+      "image": "11",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXI003+2018.5/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "云享读书会《区块链技术及应用》",
+      "description": "华为云全新企划-云享读书会系列活动，每期会选取一本技术相关的畅销书籍，邀请原作者或明星专家提炼书籍精华，在读书会的专属微信社群中，每日输出精华知识的领读视频，帮助大家快速积累专业知识。第一期活动选取华为云区块链技术团队所著《区块链技术及应用》，邀请作者团的刘再耀老师解读区块链的前世今生。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "4",
+      "image": "14",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXP016+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "云享读书会《敏捷转型：打造VUCA时代的高效能组织》",
+      "description": "华为云·云享读书会系列活动，每期会选取一本技术相关的畅销书籍，邀请原作者提炼书籍精华分享领读视频，帮助大家快速积累专业知识。本期领读书籍为中国第一部企业级敏捷实战著作《敏捷转型：打造VUCA时代的高效能组织》，邀请作者王明兰深度剖析敏捷转型的实施策略。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "15",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXV014+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "云享读书会《数据仓库工具箱》",
+      "description": "华为云·云享读书会系列活动，每期会选取一本技术相关的畅销书籍，邀请原作者/业内大咖提炼书籍精华、分享领读视频，帮助大家快速积累专业知识。本期领读书籍为《数据仓库工具箱：维度建模权威指南》，特邀华为数据仓库资深专家张剑博士现身领读，带你了解数据仓库、维度建模、维度模型设计等大数据领域前沿知识。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "5",
+      "image": "16",
+      "time": "5小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE093+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "7天转型运维实战营",
+      "description": "云上应用架构和调用关系复杂，运维工作面临诸多难题：如何掌握真实的用户体验情况？如何追踪系统、资源各类问题？如何理清微服务之间依赖关系？日志散落，如何快速定位问题根因？ 面对这些难题，企业运维该如何解决呢？本次课程将为您详细解答这些疑问。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "17",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXP010+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "实战篇：神经网络赋予机器识图的能力",
+      "description": "深度神经网络让机器拥有了视觉的能力，实战派带你探索深度学习！",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "18",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE038+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "HCIA-IoT华为认证工程师课程",
+      "description": "该课程适用于HCIA-IoT V1.0（2017年8月1日发布）。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "6",
+      "image": "19",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXT006+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "云原生应用架构",
+      "description": "各行各业的研究者正在创造性地使用容器等云原生技术，推动资源调度、边缘计算、物联网、大数据、AI等各领域的发展。在IT工业界蓬勃发展的云原生技术浪潮中，探讨云原生技术对于IT行业的重大影响以及未来云原生技术在边缘计算等新方向的应用与挑战。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "7",
+      "image": "20",
+      "time": "4小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX055+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "21天转型AI实战营",
+      "description": "AI机器人、AI游戏眼镜、AI美图……市场上层出不穷的AI产品让人眼花缭乱。在AI市场的繁荣之下，是日新月异的AI技术！本期课程依托华为云EI服务，带领开发者学习和体验多项国际前沿AI技术！期望通过开发者的学习，帮助企业解决实际问题，实现生产自动化、提升效率，同时这也是华为云奉献给开发者们的一场技术盛宴。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "21",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE011+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "实战篇：让机器理解人类语言和语音",
+      "description": "自然语言/语音交互已然成为人机交互的下一个趋势，本课程理论知识结合案例和实操演练，带你体验自然语言处理技术和构建垂直领域智能对话机器人",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "22",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE041+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "TBE认证培训课程（高级）",
+      "description": "TBE算子开发方式是基于DaVinci架构的昇腾处理器（Ascend）的主要编程方式之一，昇腾AI软件栈提供了TBE（Tensor Boost Engine：张量加速引擎）算子开发框架，开发者可以基于此框架使用Python语言开发自定义算子。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "8",
+      "image": "23",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXA008+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "Python语言进阶",
+      "description": "掌握了Python基本概念知识后，跟着本课程进阶学习Python。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "24",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX033+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "华为DevOps实践",
+      "description": "华为软件开发云（DevCloud）是集华为研发实践、前沿研发理念、先进研发工具为一体的研发云平台，面向开发者提供 研发工具服务，让软件开发云简单高效。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "25",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXV001+2018.5/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "云享读书会《敏捷无敌之DevOps时代》",
+      "description": "华为云·云享读书会系列活动，每期会选取一本技术相关的畅销书籍，邀请原作者提炼书籍精华分享领读视频，帮助大家快速积累专业知识。本期领读书籍为《敏捷无敌之DevOps时代》，邀请作者团 - 无敌三人组（王立杰、许舟平、姚冬）与敏捷专家徐磊，四位大咖齐聚，论DevOps之道。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "26",
+      "time": "5小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXV016+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "DWS中级工程师课程",
+      "description": "华为DWS连续三年入选Gartner数据分析魔力象限，并获得Forrester高度评价，是企业数据仓库的最佳选择，本课程为大家介绍DWS基本概念、使用入门级运维知识。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "5",
+      "image": "27",
+      "time": "1小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE097+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "21天转型容器实战营",
+      "description": "华为云DevCloud &云容器服务联合重磅出品——21天转型容器实战营！ 依托华为云云容器服务，带领开发者学习和体验Docker, kubernetes, Istio等大热技术！汇聚华为云容器技术尖端专家，结合CKA认证精编21天课程，理论和实践双管齐下，助力开发者打通容器任督二脉，挑战21天，拿下CKA！",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "28",
+      "time": "21小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXI010+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "7天玩转性能&接口测试实战营",
+      "description": "华为云重磅出品——7天玩转性能&接口测试实战营！本期课程依托华为云DevCloud，以实践操作为课程基础，使学员掌握DevOps持续自动化测试、接口测试、单接口测试、多接口组合场景、网站性能测试、CI/CD持续自动化测试等能力。体验性能和接口测试的整体流程，汲取自动化测试的核心知识。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "29",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXV010+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "HCIA-Kunpeng Application Developer课程",
+      "description": "HCIA-Kunpeng Application Developer定位于培养与认证能够在华为鲲鹏计算平台上进行业务应用的部署与迁移，性能测试与调优，以及具备处理应用在部署过程中遇到的常见问题的工程师。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "8",
+      "image": "30",
+      "time": "20小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXK009+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "人人学云网络",
+      "description": "本课程涵盖虚拟私有云VPC、弹性负载均衡ELB、弹性公网IP、NAT网关等内容，带大家从华为云网络从入门到精通",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "2",
+      "image": "31",
+      "time": "1小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXI018+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "NUMA架构下的软件性能挑战",
+      "description": "NUMA 架构在中大型系统上一直非常盛行，也是高性能的解决方案，尤其在系统延迟方面表现都很优秀。但 NUMA 架构对服务器的相关性能到底有什么影响，如何设置会更好？",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "32",
+      "time": "1小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX069+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "企业IT系统演进",
+      "description": "HCIP-Cloud Service Solutions Architect是对云原生理念及相关产品基础知识和使用技能的考察和认证，进入本课程开启HCIP-Cloud Service Solutions Architect学习之旅。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "33",
+      "time": "1小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX053+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "Kafka全景实践课",
+      "description": "想学习当下热门的分布式消息系统Kafka？华为云专家倾囊相授，5节精编实战课，带你从零基础入门到实战操作，轻松玩转Kafka。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "34",
+      "time": "5小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXP017+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "云时代下的网络安全",
+      "description": "从“什么是网络安全”开始；而后重点讲解“网络边界安全”和“应用安全”两个核心部分；最后，聚焦在云时代下的“安全管控及趋势分析”领域，将被动的安全防御工作升级到主动的分析与管控，做到未雨绸缪。让各种隐患与攻击化解于无形之中。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "35",
+      "time": "1小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXU002+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "区块链全景实践课",
+      "description": "本期课程由华为云区块链服务团队精心打造。华为云区块链服务是面向企业及开发者的高性能、高可用和高安全的区块链技术平台服务，可以帮助企业和开发人员在华为云上快速、低成本的创建、部署和管理区块链应用。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "4",
+      "image": "36",
+      "time": "5小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXP020+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "实战篇：刷脸时代已经到来，你准备好了吗？",
+      "description": "手把手教你玩转人脸识别，初探深度学习。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "37",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE037+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "入门篇：人工智能开启新纪元",
+      "description": "实战派带你云上体验机器学习，不会算法照样玩转AI。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "38",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE036+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "7天玩转网络AI模型开发",
+      "description": "通过本次7天课程的学习，你将掌握一站式网络AI模型开发流程，了解电信领域网络AI开发平台“NAIE网络智能”（原：SoftCOM AI云服务平台）的架构和服务特性。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "39",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE096+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "微服务全景体验实践小课",
+      "description": "本期课程结合华为云微服务产品，课程以一个全景的小demo为主线，5天让您从0到N，更直观的学习和了解微服务。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "40",
+      "time": "6小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXP013+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "传统应用云上架构",
+      "description": "随着行业企业上云意识和积极性的提高，上云比例和应用深度显著提升，云计算在企业生产、经营、管理中的应用已广泛普及，学习本课程，了解传统应用云上架构设计，助力企业应用上云。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "7",
+      "image": "41",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX054+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "TBE认证培训课程（初级）",
+      "description": "TBE算子开发方式是基于DaVinci架构的昇腾处理器（Ascend）的主要编程方式之一，昇腾AI软件栈提供了TBE（Tensor Boost Engine：张量加速引擎）算子开发框架，开发者可以基于此框架使用Python语言开发自定义算子。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "9",
+      "image": "42",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXA007+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "7天Redis超速入门",
+      "description": "Redis超速入门7天实战营课程，结合华为云中间件产品，让您在实战环境中轻松学会Redis！",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "43",
+      "time": "7小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXD004+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "数据库进阶学习",
+      "description": "云计算是未来的方向，云数据库是解决方案的核心，学习本课程掌握华为云数据库的运维管理，数据库迁移和根据业务场景出具解决方案的能力。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "44",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXD002+2018.5/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "Redis全景实践课",
+      "description": "Redis是一种非关系型数据库，本课程结合华为云分布式缓存服务Redis，华为云专家倾囊相授，5节精编实战课，带你从入门到实战轻松玩转Redis。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "45",
+      "time": "5小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXP018+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "实战篇：给机器一双“慧眼”，看懂文字、图像和视频",
+      "description": "给机器一双“慧眼”，看懂文字、图像和视频，让机器拥有一双火眼金睛。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "46",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE039+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "实战篇：不用写代码也可以自建AI模型",
+      "description": "AI一站式开发平台ModelArts横空出世，零基础AI开发人员的福音。学习本课程，带你了解AI模型训练，不会编程、不会算法、不会高数，一样可以构建出自己专属的AI模型。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "47",
+      "time": "2小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE040+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "HCIE-Cloud Service Solutions Architect课程",
+      "description": "HCIE-Cloud Service Solutions Architect是对公有云环境下设计和部署业务架构的理论知识和实际操作的考察和认证，旨在提升学员的全局思考能力和架构设计能力。（此为文档教材，视频课程制作中。）",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "7",
+      "image": "48",
+      "time": "20小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX047+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "21天转型微服务实战营",
+      "description": "华为云DevCloud &微服务服务联合重磅出品——21天转型微服务实战营！ 本期课程依托华为云微服务服务，涵盖了微服务领域ServiceComb、Service Mesh等热门技术，带你深度了解微服务多种治理、应用能力。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "49",
+      "time": "21小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXP012+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "HCIP-Cloud Service Developer课程",
+      "description": "HCIP-Cloud Service Developer是对华为软件开发云基础服务及DevOps基本知识、动手能力的考察和认证；定位于培养掌握DevOps前沿实践、能利用华为软件开发云从事开发工作的DevOps融合工程师。（此为文档教材，视频课程制作中。）",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "50",
+      "time": "20小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXX046+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "DWS高级工程师课程",
+      "description": "性能调优、运维管理、数据迁移是数据库DBA必要掌握的知识，本课程通过视频+课件的干货形式，期望通过学习，帮助提升DBA实际技能。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "5",
+      "image": "51",
+      "time": "1小时",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE101+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "7天玩转电商应用性能调优",
+      "description": "玩转应有性能调优需要具备哪些基础知识？如何通过CPTS快速发起高并发压测？针对复杂业务场景如何进行应用性能调优？本课程以电商场景为案例，通过学习让你从基础入门到实战提升一站式掌握，系统学习应用性能调优，即学即用。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "52",
+      "time": "",
+      "url": "https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXP014+Self-paced/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "JAVA应用程序设计",
+      "description": "本课程从基础语法学习开始学习JAVA编程，通过面向对象编程、抽象类与接口、文件操作、泛型集合、\n            多线程和注解等Java语言的基础知识，逐步深入JDBC编程、\n            分层架构等核心编程技术，详细探讨Java提供的各种软件开发技术和特性。\n            本课程设置了五个综合案例，将案例从易到难逐步分解，最终完成整个案例。",
+      "teacher_name": "马瑞新",
+      "school": "大连理工大学",
+      "course_type": "1",
+      "image": "53",
+      "time": "",
+      "url": "https://classroom.devcloud.cn-north-4.huaweicloud.com/joinclass/563f0b8bee1447ec88951d9681fe2324/1"
+    },
+    {
+      "name": "区块链精品实践课",
+      "description": "本课程由浅入深的介绍区块链技术缘起、原理机制、演进和发展现状，分享区块链典型应用场景及特点。了解华为云区块链的方案及特点，参与动手实验。从入门到实践，循序渐进一站式学习。",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "course_type": "4",
+      "image": "55",
+      "time": "6小时",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/6bc98f2050e14b539dd46ea64b14b92f/4"
+    },
+    {
+      "name": "数据结构（C++）实践",
+      "description": "本课程介绍了数据结构、算法以及抽象数据类型的概念，介绍了线性表、栈、队列和串、数组、广义表、树和二叉树、图等常用数据结构，讨论了常用的查找、排序和索引技术，给出了较多的数据结构的应用实例，同时介绍了算法的分析与设计，和一些常用的算法。",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "54",
+      "price": "限时免费",
+      "time": "96小时",
+      "url": "https://classroom.devcloud.cn-north-4.huaweicloud.com/joinclass/0c2573da0bf4414a828db8879ba21c74/3"
+    },
+    {
+      "name": "技术大咖在线论道-华为云技术开放视频合集课堂入口",
+      "description": "【技术大咖在线论道 百万+开发者精益成长】 汇聚多领域资深技术专家视频课程； 探讨国内外前沿技术领域发展趋势； 助力开发者专业技术能力精益成长； 分享可借鉴研发技术实践成功经验。",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "56",
+      "price": "限时免费",
+      "time": "90小时",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/d2784d62244346b79d7c94576d7cef7c/1"
+    }
+  ],
+  "characterCourse": [
+    {
+      "name": "物联网开发者系列课程",
+      "description": "提供理论与实践相结合的系列课程，讲解物联网基础理论、平台开发、设备集成、应用开发和大数据分析相关技术，结合智慧路灯、智慧物流、智慧农业、智慧消防等多种场景实验，解决实际应用的痛点问题。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "5",
+      "image": "1",
+      "url": "https://education.huaweicloud.com/programs/16cfbeb8-40dd-48b3-a490-e884f8bd2814/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "鲲鹏开发者系列课程",
+      "description": "面向多样性计算时代，华为将携手产业合作伙伴一起构建鲲鹏计算产业生态，共同为各行各业提供基于鲲鹏处理器的领先IT基础设施及行业应用。本系列课程主要针对鲲鹏软件开发人员，帮助您了解鲲鹏体系的基础知识、软硬件产品、云服务，以及X86应用如何迁移上鲲鹏平台。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "6",
+      "image": "2",
+      "url": "https://education.huaweicloud.com/programs/fcdaaec3-bd7a-41a1-8532-f3a9a5bd22ff/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "开发者系列课程",
+      "description": "为开发者提供华为研发实践、前沿研发理念、先进研发工具相关的一系列课程，希望您通过学习了解和掌握在华为云上开发、部署和维护应用程序。 ",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "2",
+      "image": "3",
+      "url": "https://education.huaweicloud.com/programs/d1e194ae-1ea6-4390-8cc6-b57fd85e4f4c/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "EI智能数据湖系列课程",
+      "description": "为学员提供智能数据湖系列课程，提高学员在安装部署、开发支持、数据迁移及运维管理等方面的专业技能，能够具备智能数据湖的专业能力。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "4",
+      "image": "4",
+      "url": "https://education.huaweicloud.com/programs/cbfcfb5a-327a-45ed-a2be-c81856ea98a3/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "云计算初学者系列课程",
+      "description": "为云计算初学者、从业人员，提供一系列入门级课程，帮助你快速了解和掌握云计算。 ",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "1",
+      "image": "5",
+      "url": "https://education.huaweicloud.com/programs/b32c57cb-3b77-413e-a4be-7baca88cdeab/about?isAuth=0&cfrom=hwc"
+    },
+    {
+      "name": "架构师系列课程",
+      "description": "架构师系列课程是专为解决方案架构师、解决方案设计工程师以及任何想了解如何在华为云上设计应用程序和系统的人员而设计的。希望您通过学习了解如何构建将数据服务、管理和安全相结合的复杂华为云解决方案。",
+      "teacher_name": "华为云学院",
+      "school": "华为云",
+      "course_type": "3",
+      "image": "6",
+      "url": "https://education.huaweicloud.com/programs/ea15590b-277a-4358-bd64-e27131dfb378/about?isAuth=0&cfrom=hwc"
+    }
+  ],
+  "hotActive": [
+    {
+      "image": 1,
+      "name": "北京信息职业技术学院暑期夏令营",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "8小时",
+      "tags": [
+        "微认证",
+        "Git",
+        "devcloud"
+      ],
+      "description": "带你轻松get游戏开发与公众号二次开发新技能~ 通过本次夏令营，你将了解熟悉微信公众号和黑白棋游戏的云端部署，依托华为云强大的技术优势，让同学们对一站式云端项目管理有一个全局的理解。精心设计的实验，能够让学员动手实操，加深对知识点的认知。还有详细的实验手册，更能让学员在操作时得心应手。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/3d735a0a8cfc4457bcfe79bcb24b3ef3/1",
+      "hot": 1
+    },
+    {
+      "image": 2,
+      "name": "湖南省区块链大赛-《区块链技术及应用》",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "4小时",
+      "tags": [
+        "区块链"
+      ],
+      "description": "本期课程选取华为云区块链技术团队所著《区块链技术及应用》，邀请作者团的刘再耀老师解读区块链的前世今生。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/4b8ac73aa05742bcb113557c8079c7c2/1",
+      "hot": 2
+    },
+    {
+      "image": 3,
+      "name": "湖南省区块链大赛-精品实践课",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "5小时",
+      "tags": [
+        "区块链"
+      ],
+      "description": "本期课程由华为云区块链服务团队精心打造。华为云区块链服务是面向企业及开发者的高性能、高可用和高安全的区块链技术平台服务，可以帮助企业和开发人员在华为云上快速、低成本的创建、部署和管理区块链应用。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/2c36c4f36b7f4b14a5627fadc9b1e123/5",
+      "hot": 3
+    },
+    {
+      "image": 4,
+      "name": "华为云高校开发者青年班第四期",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "8小时",
+      "tags": [
+        "微认证",
+        "Git",
+        "敏捷",
+        "DevOps"
+      ],
+      "description": "课题名称：带你轻松get游戏开发与公众号二次开发新技能~ 通过本次青年班，你将了解熟悉微信公众号和黑白棋游戏的云端部署，依托华为云强大的技术优势，让同学们对一站式云端项目管理有一个全局的理解。精心设计的实验，能够让学员动手实操，加深对知识点的认知。还有详细的实验手册，更能让学员在操作时得心应手。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/9c3d69e70d0143929af92678b9177743/1",
+      "hot": 4
+    },
+    {
+      "image": 5,
+      "name": "四川师范大学面试培训会",
+      "teacher_name": "张宇，裴曼辰",
+      "school": "华为云",
+      "time": "6小时",
+      "tags": [
+        "求职",
+        "Java"
+      ],
+      "description": "《2020年大学生就业力报告》显示，当前大学生就业形势严峻，结构性矛盾突出，人才竞争也相对激励，如何能够在面试中脱颖而出，成功拿下大厂Offer？在这个人人都是产品经理的时代，如何成功面试或转型为产品经理职位，10大经典面试题将详细剖析。敬请关注华为大咖带来精彩讲座。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/286b22ee211e423d953322a05cbf909b/1",
+      "hot": 5
+    },
+    {
+      "image": 6,
+      "name": "7天玩转前端研发实战营",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "14小时",
+      "tags": [
+        "前端"
+      ],
+      "description": "本期课程将依托华为云DevCloud，使用DevUI开源组件库，以实践操作作为课程基础，开发通用的文档发布管理系统。课程对Angular和Node有较为深入的应用，从课程设计、项目规划、工程化、DevUI组件库、常用第三方库(echarts、markdown)等各个维度进行详细介绍。不仅会教大家如何实现功能，更会讲解技术背后的原理，帮助大家做到举一反三，掌握前端开发技能。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/be3e0e8882044f1999119e7dea906d3d/1",
+      "hot": 6
+    },
+    {
+      "image": 7,
+      "name": "啤酒供需数字化管理系统Demo及操作指导",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "24小时",
+      "tags": [
+        "应用开发"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/e53852bc325a454abeaa3b1f7d49d66b/1",
+      "hot": 7
+    },
+    {
+      "image": 8,
+      "name": "湖南区块链大赛-21天区块链实战",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "21小时",
+      "tags": [
+        "区块链"
+      ],
+      "description": "借鉴21天形成习惯的理念，DevCloud联合区块链服务推出”21天转型区块链实战营“，发布21天精品课程，引导用户学习前沿区块链知识并动手实践，助力玩转区块链。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/1acad48b45384ec3a32517744ecfb539/1",
+      "hot": 8
+    },
+    {
+      "image": 9,
+      "name": "市政口罩管理系统Demo与操作手册",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "12小时",
+      "tags": [
+        "应用开发"
+      ],
+      "description": "",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/1ee5acc932134b63866b89c790428b77/1",
+      "hot": 9
+    },
+    {
+      "image": 10,
+      "name": "技术大咖在线论道-华为云技术开放视频合集",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "128小时",
+      "tags": [
+        "微服务架构"
+      ],
+      "description": "【技术大咖在线论道 百万+开发者精益成长】 汇聚多领域资深技术专家视频课程； 探讨国内外前沿技术领域发展趋势； 助力开发者专业技术能力精益成长； 分享可借鉴研发技术实践成功经验。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/d2784d62244346b79d7c94576d7cef7c/1",
+      "hot": 10
+    },
+    {
+      "image": 11,
+      "name": "云享读书会《敏捷无敌之DevOps时代》",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "10h",
+      "tags": [
+        "敏捷",
+        "DevOps"
+      ],
+      "description": "数字化转型时代，企业敏捷及DevOps转型已经不是要不要，而是如何做的问题。众多企业已经或正在敏捷转型的路上，并且或多或少已经走上了DevOps转型的道路。从敏捷无敌到DevOps时代，专家大咖庖丁解牛，带你了解各自的心路历程。本课程内容包含精益、敏捷、DevOps、持续集成、持续交付等众多话题，适合不同行业的企业管理者、产品经理、BA、项目经理、敏捷教练、软件工程师、运维工程师等各类人群进行学习。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/5c50439ef144456185d0aeff7e099071/1",
+      "hot": 11
+    },
+    {
+      "image": 12,
+      "name": "<互联网+创新创业>弯道超车自学课程",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "80h",
+      "tags": [
+        "敏捷",
+        "DevOps"
+      ],
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/51f29987ab234b3993f54e834a247faf/1",
+      "hot": 12
+    },
+    {
+      "image": 13,
+      "name": "华为DevCloud.云帆计划 毕业季暑期成长计划",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "16h",
+      "tags": [
+        "求职",
+        "Java"
+      ],
+      "description": "快毕业了，今年的就业形势，我得怎么才找得到工作呢？ 入职前，从学校到公司我要做哪些准备才能适应啊？ 入职后，前辈们都好厉害啊，我这个职场小白怎么才能赶上大家呢？ 资深高校教育解决方案专家，资深开发工程师们纷纷加入的暑期成长计划，做你求职入职的秘密武器，让你从学生到职场达人转身无忧。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/2769fd5d78d14f2f98e80ff3d460c925/1",
+      "hot": 13
+    },
+    {
+      "image": 14,
+      "name": "云享读书会《程序员修炼之道》",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "6h",
+      "tags": ["软件工程"],
+      "description": "华为云·云享读书会系列活动，每期会选取一本技术相关的畅销书籍，邀请行业专家/原作者提炼书籍精华、分享领读视频，帮助大家快速积累专业知识。本期为系列活动的第7期，邀请华为云资深架构师-董老师，现身领读程序员必读经典《程序员修炼之道》。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/2746cf34d8bc45fb82e9fb0b0b4ab5d5/1",
+      "hot": 14
+    },
+    {
+      "image": 15,
+      "name": "HE2E DevOps实践",
+      "teacher_name": "Classroom",
+      "school": "华为云",
+      "time": "14h",
+      "tags": ["敏捷","DevOps"],
+      "description": "HE2E即华为端到端的DevOps实施框架，集合了业界先进的实践，结合华为30年研发经验，形成的一套可操作可落地的敏捷开发方法论，并基于DevCloud工具链进行承载。",
+      "url": "https://classroom.devcloud.huaweicloud.com/joinclass/51984f98b566492e8f5fb68671446c74/4",
+      "hot": 15
+    }
+  ]
+}
