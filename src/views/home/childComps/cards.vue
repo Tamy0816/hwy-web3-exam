@@ -56,7 +56,8 @@ export default {
   margin-top: 70px;
   display: flex;
   flex-wrap: wrap;
-  width: 1400px;
+  justify-content: space-between;
+  width: 1250px;
   margin: 0 auto;
 }
 .pic-card {

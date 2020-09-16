@@ -25,7 +25,7 @@
         <cards :cards="item.data"></cards>
       </div>
 
-      <div style="text-align:center;margin-top:50px">
+      <div style="width:1250px;text-align:center;margin-top:50px">
         <h2>活动公告</h2>
         <list :list="activatylistData"></list>
       </div>

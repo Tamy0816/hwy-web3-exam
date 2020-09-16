@@ -3,11 +3,10 @@
     <!-- <hwy-header></!-->
     -->
     <hwy-banner :bannerInfo="bannerInfo"></hwy-banner>
-    <div class="content">
-      <div class="tab-content">
+    <div class="classroom-content">
+      <div class="tab-content1">
         <tab-control :tabs="tabs" @itemClick="tabClick"></tab-control>
       </div>
-
     </div>
     <div class="tab-item">
         <cards :cards="showCards"></cards>
@@ -78,18 +77,20 @@ export default {
 
 <style>
 #cloud-class-room {
+
 }
-.content {
+.classroom-content {
   width: 100%;
-  display: flex;
   justify-content: center;
+  display: flex;
 }
-.tab-content {
-  width: 1300px;
+.tab-content1 {
+  /* width: 1300px; */
+  width:1250px;
   border-bottom: 1px solid #e3e5e9;
 }
 .tab-item{
-  margin-top:30px;
+  margin-top:20px;
   display: flex;
   justify-content: center;
 }

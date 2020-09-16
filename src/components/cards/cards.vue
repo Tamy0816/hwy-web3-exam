@@ -2,7 +2,7 @@
   <div class="cards">
     <div class="cards-content">
       <div class="card-box-content" v-for="(item, index) in cards" :key="index">
-        <div class="pic-card">
+        <div class="card-pic">
           <div
             class="pic"
             :style="{backgroundPositionY: (-200 * item.image) + 'px'}"
@@ -39,11 +39,12 @@ export default {
   margin-top: 20px;
   display: flex;
   flex-wrap: wrap;
-  width: 1300px;
+  justify-content: space-between;
+  width: 1250px;
 }
-.pic-card {
+.card-pic {
   width: 284px;
-  margin: 0 30px 30px 0;
+  margin: 0 20px 30px 0;
   box-shadow: 0 4px 16px 0 rgba(124, 142, 227, 0.12);
   border-radius: 12px;
   display: inline-block;

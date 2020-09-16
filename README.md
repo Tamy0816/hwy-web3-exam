@@ -1,6 +1,6 @@
 # hwy-web3
 
-> 华为云web3阶段考核
+> 华为云web3阶段考核（使用vue-cli初始化项目）
 
 ## Build Setup
 
